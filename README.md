@@ -12,7 +12,6 @@
  <br>  <br> 
   
   <br> <br> 
-<a href="https://t.me/homavpn_admin"  target="_blank">homavpn_admin</a>
 
   <br> <br> <br> <br> 
 
