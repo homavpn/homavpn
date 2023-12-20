@@ -11,7 +11,6 @@
 <a href="https://go.crisp.chat/chat/embed/?website_id=023a0186-2742-4b3a-b1e6-844f8138c5bc"   target="_blank"> برای چت آنلاین اینجا کلیک کنید </a>
  <br>  <br> 
   
-  🔵 یا به آی دی تلگرام زیر پیام دهید
   <br> <br> 
 <a href="https://t.me/homavpn_admin"  target="_blank">homavpn_admin</a>
 
