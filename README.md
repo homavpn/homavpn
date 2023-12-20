@@ -1,7 +1,8 @@
 <div id="vip"> <center> <h3 > <b> 
-🔴 برای خرید فیلترشکن و ورود به سایت روی لینک زیر کلیک کنید 🚀
+🔴 برای خرید فیلترشکن به پشتیبانی تلگرام پیام بدین 🚀
   <br>  <br>
-<a  target="_blank" href="https://homavpn.shop/"> www.homavpn.shop </a>
+<a href="https://t.me/homavpn1"  target="_blank">homavpn1</a>
+
  
 
   <br>  <br> 
